@@ -1,11 +1,11 @@
-baseURL = "http://grafian.com/"
+baseURL = "http://example-site.org/"
 languageCode = "en-us"
 title = "Grafian Software Crafter"
 theme = "ananke"
 
 contentDir = "content"
 layoutDir = "layouts"
-publishDir = "public"
+publishDir = "docs"
 buildDraft = false
 
 [taxonomies]
