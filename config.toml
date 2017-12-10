@@ -1,0 +1,17 @@
+baseURL = "http://grafian.com/"
+languageCode = "en-us"
+title = "Grafian Software Crafter"
+theme = "ananke"
+
+contentDir = "content"
+layoutDir = "layouts"
+publishDir = "public"
+buildDraft = false
+
+[taxonomies]
+ category = "categories"
+ tag = "tags"
+
+[params]
+ subtitle = "Hugo is Cool"
+ author = "Refi R"
