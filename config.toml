@@ -1,4 +1,4 @@
-baseURL = "http://example-site.org/"
+baseURL = "https://refi2305.github.io/test-grafian-hugo/"
 languageCode = "en-us"
 title = "Grafian Software Crafter"
 theme = "ananke"
